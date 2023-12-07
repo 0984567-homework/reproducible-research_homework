@@ -32,7 +32,9 @@ iv) Code used to recreate figure:
 Figure produced:
 <img width="525" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/50f62b19-9562-4156-8699-0229d93f5a4a">
 
-    
+v) The linear model is: logV = \$alpha$logL + log\$beta$
+When the values from (iii) and L = 300 are substituted in, we get: logV = 1.5152 x log300 + 7.0748.
+logV = 10.828. V = 6.732x10^10 nm^3.
 
    
 
