@@ -11,6 +11,8 @@ Questions 1, 2, and 3: https://github.com/0984567-homework/logistic_growth.git
    ii) I log transformed the data to make it more linear. Providing this plot:
    <img width="865" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/c62bc552-a78d-4d8b-b1b2-d4f67babe66f">
 
+   iii) The exponent ($\alpha$)= 
+
    
 
     
