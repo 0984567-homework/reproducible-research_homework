@@ -15,6 +15,8 @@ Questions 1, 2, and 3: https://github.com/0984567-homework/logistic_growth.git
    Log($\beta$) = 7.0748, so the scaling factor ($\beta$) = 11879550.28
 
 The p-value for the exponent was 6.44e-10, the p-value for the scaling factor was 2.28e-10. Both are statistically significant at the 0.05 level.
+
+I found the same value for the exponent (given as 1.52 in the paper), but the scaling factor in the paper is listed as 1182, which is very different to the value that I obtained from my model.
    Code as shown:
    <img width="468" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/b5f7a13f-be25-445a-9843-8342ebd8c41a">
 
