@@ -7,6 +7,12 @@ Questions 1, 2, and 3: https://github.com/0984567-homework/logistic_growth.git
    iii) I added the set.seed() function and then chose the integer 456 as the seed, this means that every time the code is re-ran, the same walk is generated for each plot. This script is now in this repo (in the 'question-4-code' folder).
    iv) <img width="848" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/df683ffd-6a55-441a-aa4a-b1fb09c34f72">
 
+5. i) The table has 13 columns and 33 rows.
+   ii) I squared the data to make it more linear. Providing this plot:
+   <img width="609" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/5bf6ab37-ba32-439a-b337-9493281328be">
+
+    
+
    
 
 
