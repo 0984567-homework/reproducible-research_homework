@@ -32,8 +32,6 @@ iv) Code used to recreate figure:
 Figure produced:
 <img width="525" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/50f62b19-9562-4156-8699-0229d93f5a4a">
 
-   
-
     
 
    
