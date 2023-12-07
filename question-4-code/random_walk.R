@@ -4,6 +4,7 @@
 library(ggplot2)
 library(gridExtra)
 
+set.seed(456)
 random_walk  <- function (n_steps) {
   
   df <- data.frame(x = rep(NA, n_steps), y = rep(NA, n_steps), time = 1:n_steps)
@@ -53,3 +54,9 @@ plot2 <- ggplot(aes(x = x, y = y), data = data2) +
   ylab("y-coordinate")
 
 grid.arrange(plot1, plot2, ncol=2)
+
+
+sink(file = "package-versions.txt")
+sessionInfo()
+sink()
+
