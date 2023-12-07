@@ -26,6 +26,12 @@ I found the same value for the exponent (given as 1.52 in the paper), but the sc
    <img width="468" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/b5f7a13f-be25-445a-9843-8342ebd8c41a">
 
 
+iv) Code used to recreate figure:
+<img width="673" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/2ee80417-f875-4271-93f8-1f49d31e9ad4">
+
+Figure produced:
+<img width="525" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/50f62b19-9562-4156-8699-0229d93f5a4a">
+
    
 
     
