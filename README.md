@@ -5,7 +5,8 @@ Questions 1, 2, and 3: https://github.com/0984567-homework/logistic_growth.git
 4. i)Every time that the code is run, a new random walk appears for each plot. All of the walks start from the origin (0,0) and there is a colour gradient for how far along the walk has progressed in time. A random angle for up to n steps is generated in each iteration.
    ii) Random seeds are the starting point for random number generation. They make it so that the random numbers generated are reproducible. The idea is that the same seed will generate the same random number.
    iii) I added the set.seed() function and then chose the integer 456 as the seed, this means that every time the code is re-ran, the same walk is generated for each plot. This script is now in this repo (in the 'question-4-code' folder).
-   iv) 
+   iv) <img width="848" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/df683ffd-6a55-441a-aa4a-b1fb09c34f72">
+
    
 
 
