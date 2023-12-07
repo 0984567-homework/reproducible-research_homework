@@ -3,11 +3,15 @@
 Questions 1, 2, and 3: https://github.com/0984567-homework/logistic_growth.git
 
 4. i)Every time that the code is run, a new random walk appears for each plot. All of the walks start from the origin (0,0) and there is a colour gradient for how far along the walk has progressed in time. A random angle for up to n steps is generated in each iteration.
+   
    ii) Random seeds are the starting point for random number generation. They make it so that the random numbers generated are reproducible. The idea is that the same seed will generate the same random number.
+   
    iii) I added the set.seed() function and then chose the integer 456 as the seed, this means that every time the code is re-ran, the same walk is generated for each plot. This script is now in this repo (in the 'question-4-code' folder).
+   
    iv) <img width="848" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/df683ffd-6a55-441a-aa4a-b1fb09c34f72">
 
 5. i) The table has 13 columns and 33 rows.
+6. 
    ii) I log transformed the data to make it more linear. Providing this plot:
    <img width="865" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/c62bc552-a78d-4d8b-b1b2-d4f67babe66f">
 
@@ -17,6 +21,7 @@ Questions 1, 2, and 3: https://github.com/0984567-homework/logistic_growth.git
 The p-value for the exponent was 6.44e-10, the p-value for the scaling factor was 2.28e-10. Both are statistically significant at the 0.05 level.
 
 I found the same value for the exponent (given as 1.52 in the paper), but the scaling factor in the paper is listed as 1182, which is very different to the value that I obtained from my model.
+
    Code as shown:
    <img width="468" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/b5f7a13f-be25-445a-9843-8342ebd8c41a">
 
