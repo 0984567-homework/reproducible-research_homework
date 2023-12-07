@@ -36,6 +36,8 @@ v) The linear model is: logV = \$alpha$logL + log\$beta$
 When the values from (iii) and L = 300 are substituted in, we get: logV = 1.5152 x log300 + 7.0748.
 logV = 10.828. V = 6.732x10^10 nm^3.
 
+THE R SCRIPT USED FOR THE ABOVE IS IN THE reproducible-research_homework REPO AS
+
    
 
 
