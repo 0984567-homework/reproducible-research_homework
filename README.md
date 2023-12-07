@@ -11,7 +11,13 @@ Questions 1, 2, and 3: https://github.com/0984567-homework/logistic_growth.git
    ii) I log transformed the data to make it more linear. Providing this plot:
    <img width="865" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/c62bc552-a78d-4d8b-b1b2-d4f67babe66f">
 
-   iii) The exponent ($\alpha$)= 
+   iii) The exponent ($\alpha$)= 1.5152
+   Log($\beta$) = 7.0748, so the scaling factor ($\beta$) = 11879550.28
+
+The p-value for the exponent was 6.44e-10, the p-value for the scaling factor was 2.28e-10. Both are statistically significant at the 0.05 level.
+   Code as shown:
+   <img width="468" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/b5f7a13f-be25-445a-9843-8342ebd8c41a">
+
 
    
 
