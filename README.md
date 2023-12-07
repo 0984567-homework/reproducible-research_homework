@@ -1,6 +1,6 @@
 # Reproducible research: version control and R
 
-Questions 1, 2, and 3: 
+Questions 1, 2, and 3: https://github.com/0984567-homework/logistic_growth.git
 
 4. i)Every time that the code is run, a new random walk appears for each plot. All of the walks start from the origin (0,0) and there is a colour gradient for how far along the walk has progressed in time. A random angle for up to n steps is generated in each iteration.
 
