@@ -16,11 +16,11 @@ Questions 1, 2, and 3: https://github.com/0984567-homework/logistic_growth.git
    <img width="865" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/c62bc552-a78d-4d8b-b1b2-d4f67babe66f">
 
    iii) The exponent ($\alpha$)= 1.5152
-   Log($\beta$) = 7.0748, so the scaling factor ($\beta$) = 11879550.28
+   Log($\beta$) = 7.0748, so the scaling factor ($\beta$) = 1181.807
 
 The p-value for the exponent was 6.44e-10, the p-value for the scaling factor was 2.28e-10. Both are statistically significant at the 0.05 level.
 
-I found the same value for the exponent (given as 1.52 in the paper), but the scaling factor in the paper is listed as 1182, which is very different to the value that I obtained from my model.
+I found the same value for the exponent (given as 1.52 in the paper), and similar for the scaling factor (1182 in paper).
 
    Code as shown:
    <img width="468" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/b5f7a13f-be25-445a-9843-8342ebd8c41a">
@@ -32,9 +32,9 @@ iv) Code used to recreate figure:
 Figure produced:
 <img width="525" alt="image" src="https://github.com/0984567-homework/reproducible-research_homework/assets/152702616/50f62b19-9562-4156-8699-0229d93f5a4a">
 
-v) The linear model is: logV = (\$alpha$)logL + log(\$beta$)
-When the values from (iii) and L = 300 are substituted in, we get: logV = 1.5152 x log300 + 7.0748.
-logV = 10.828. V = 6.732x10^10 nm^3.
+v) The linear model is: logV = (\$alpha$)logL + log(\$beta$), where L is 300,000 (kb to nt conversion)
+When the values from (iii) and L = 300,000 are substituted in, we get: logV = 1.5152 x log300000 + 7.0748.
+logV = 26.183802. V = 2.352x10^11 nm^3.
 
 THE R SCRIPT USED FOR THE ABOVE IS IN THE reproducible-research_homework REPO AS 'q5 code.R'
 
