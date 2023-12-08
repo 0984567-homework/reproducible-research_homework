@@ -38,6 +38,9 @@ logV = 10.828. V = 6.732x10^10 nm^3.
 
 THE R SCRIPT USED FOR THE ABOVE IS IN THE reproducible-research_homework REPO AS 'q5 code.R'
 
+Bonus: Reproducibility is when a study uses the same method of investigation and analysis and is conducted by either the same researchers or different, but reaches the same results. Replicability, is when the same results are achieved, or the same answer to the overarching scientific question is found, but the experimental methods and analysis were different in the different studies.
+git and GitHub are very useful for enhancing the reproducibility and replicability of work. This is because they allow for detailed records of the different analyses to be maintained- this means that researchers can go back and reproduce their work following the same steps. In terms of replication, others can observe the methods that have already been used to inspire new experiements- or try to replicate the findings of other researchers using their original methods. The collaboration feature of GitHub means that multiple people working on a project can have access to the same code and so can independently check its efficacy. The version control feature allows progress of code and work to be documented, so that other researchers can understand the stages in research and efforts to reproduce and replicate findings can begin from a firm foundation.
+There are however some limitations with the use of git and GitHub. One of the main ones is that it requires quite some time to become a confident user and to understand all of the available functions. This means that research and collaboration could be slow in many cases and thus reproduction and replication of results would be limited. Additionally, the security settings can be difficult to control and therefore using GitHub for private data which cannot be allowed into the public domain could be problematic.
    
 
 
