@@ -1,4 +1,4 @@
-Family,Genus,Type species,GenBank accession no.,Envelope,Virion type,T,Virion diameter (nm),Virion length (nm),Virion volume (nm×nm×nm),Molecule,Genome length (kb),Protein no.
+Family,Genus,Type species,GenBank accession no.,Envelope,Virion type,T,Virion diameter (nm),Virion length (nm),Vol,Molecule,length,Protein no.
 Myoviridae ,P1-like viruses,Enterobacteria phage P1,NC_005856,No,Icosahedral,13,85,,321392,Linear,94.8,110
 ,P2-like viruses,Enterobacteria phage P2,NC_001895,No,Icosahedral,13,60,,113040,Linear,33.59,43
 ,Mu-like viruses,Enterobacteria phage Mu,NC_000929,No,Icosahedral,13,60,,113040,Linear,36.72,55
